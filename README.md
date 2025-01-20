@@ -2,6 +2,8 @@
 
 It seems that the main example in Étagère's README crashes. This occurs with both `AtlasAllocator` and `BucketedAtlasAllocator`.
 
+[Original repo](https://github.com/nical/etagere#example)
+
 ## Reproducing
 
 ```bash
